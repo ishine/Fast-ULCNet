@@ -51,5 +51,17 @@ python fast_ulcnet_networks/unit_tests/unit_test_tensorflow_torch.py
 - [x] Python package of Comfi-FastGRNN for both Tensorflow and Pytorch
 
 ## Citation
-If you use Fast-ULCNet to inspire your research, please cite the paper: (TBD)
+If you use Fast-ULCNet to inspire your research, please cite the paper:
+```
+@INPROCEEDINGS{11463365,
+  author={Larraza, Nicolás Arrieta and de Koeijer, Niels},
+  booktitle={ICASSP 2026 - 2026 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)}, 
+  title={Fast-ULCNet: A Fast and Ultra Low Complexity Network for Single-Channel Speech Enhancement}, 
+  year={2026},
+  volume={},
+  number={},
+  pages={16822-16826},
+  keywords={Filtering;Filters;Circuits and systems;Media Access Control;Protocols;HTTP;Speech codecs;Instant messaging;Modulation;Network architecture;deep learning;speech enhancement;low complexity;low latency},
+  doi={10.1109/ICASSP55912.2026.11463365}}
+```
 
